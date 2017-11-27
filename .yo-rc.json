@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "processhubintegrations",
+    "packageName": "com.processhub",
+    "packageFolder": "com/processhub",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "9d46a03ef1cc3014664393aff40d408f298b4618",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
